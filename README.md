@@ -23,10 +23,6 @@
 
 The Logic Gate Simulator is an interactive web application designed to help users understand and visualize the behavior of basic logic gates. Inspired by concepts from digital electronics and devices, this project bridges the gap between theoretical knowledge and practical understanding of logic gates.
 
-## Live Demo
-
-Experience the Logic Gate Simulator in action: [Live Demo](https://logicsim.robertkibet.com/)
-
 ## Motivation
 
 This project was born out of the fascinating world of digital electronics and devices. As I delved into the fundamentals of digital systems, I realized the power and ubiquity of logic gates in modern computing. This simulator is my attempt to create a hands-on, visual tool that makes these abstract concepts more tangible and accessible to learners at all levels.
@@ -59,7 +55,7 @@ This project was born out of the fascinating world of digital electronics and de
 1. Clone the repository:
 
    ```
-   git clone https://github.com/swe-robertkibet/logic-gate-simulator.git
+   git clone https://github.com/ShivanshKumarJha/Logic-Gate-Simulator.git
    ```
 
 2. Navigate to the project directory:
@@ -98,10 +94,6 @@ Contributions to enhance the Logic Gate Simulator are welcome. Please feel free 
 - Add more complex logic gates (XOR, XNOR)
 - Implement a circuit builder feature
 - Include educational resources and quizzes
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
